@@ -2,7 +2,6 @@
 
 > A promises-based wrapper for request
 
-
 ## Install
 
 ```sh
@@ -25,11 +24,9 @@ promisedLuke.then(function(res) {
 });
 ```
 
-
 ## License
 
 MIT © [Fábio Oliveira](http://about.me/foliveira)
-
 
 [npm-url]: https://npmjs.org/package/promising-request
 [npm-image]: https://badge.fury.io/js/promising-request.svg
