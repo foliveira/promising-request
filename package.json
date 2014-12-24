@@ -1,6 +1,6 @@
 {
   "name": "promising-request",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A promises-based wrapper for request",
   "author": {
     "name": "Fábio Oliveira",
