@@ -1,4 +1,4 @@
-#  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]
+#  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Dev Dependency Status][daviddm-dev-image]][daviddm-dev-url]
 
 > A promises-based wrapper for request
 
@@ -32,5 +32,7 @@ MIT © [Fábio Oliveira](http://about.me/foliveira)
 [npm-image]: https://badge.fury.io/js/promising-request.svg
 [travis-url]: https://travis-ci.org/foliveira/promising-request
 [travis-image]: https://travis-ci.org/foliveira/promising-request.svg?branch=master
-[daviddm-url]: https://david-dm.org/foliveira/promising-request.svg?theme=shields.io
-[daviddm-image]: https://david-dm.org/foliveira/promising-request
+[daviddm-url]: https://david-dm.org/foliveira/promising-request
+[daviddm-image]: https://david-dm.org/foliveira/promising-request.svg?theme=shields.io
+[daviddm-dev-url]: https://david-dm.org/foliveira/promising-request#info=devDependencies
+[daviddm-dev-image]: https://david-dm.org/foliveira/promising-request/dev-status.svg?theme=shields.io
